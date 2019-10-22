@@ -1,1 +1,1 @@
-# lightnungMints
+# lightningMints
